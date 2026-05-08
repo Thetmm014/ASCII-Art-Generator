@@ -98,9 +98,9 @@ pyfiglet
 
 ## 👤 Author
 
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+Lovish Grover
+- GitHub: [@Thetmm014](https://github.com/Thetmm014)
+
 
 ---
 
